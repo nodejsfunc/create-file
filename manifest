@@ -1,0 +1,23 @@
+{
+    "name": "create-file",
+    "title": "create-file",
+    "description": "create-file() function & create-file class are downloading data or files by http request",
+    "version": "{{VER}}",
+    "keywords": [
+        "create-file", "query", "get", "request", "http"
+    ],
+    "author": {
+        "name": "Tom Sapletta",
+        "email": "info@softreck.dev",
+        "url": "http://softreck.dev"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+    }],
+    "homepage": "https://create-file.nodejsfunc.com/",
+    "bugs": "https://github.com/nodejsfunc/create-file/issues",
+    "demo": "http://demo-create-file.nodejsfunc.com/",
+    "docs": "http://docs-create-file.nodejsfunc.com/",
+    "download": "https://github.com/nodejsfunc/create-file/releases",
+}
