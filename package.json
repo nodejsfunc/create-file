@@ -1,10 +1,10 @@
 {
-	"name": "let-query",
+	"name": "create-file",
 	"version": "0.1.1",
 	"description": "create-file() function & create-file class are downloading data or files by http request",
 	"license": "MIT",
-	"repository": "tom-sapletta-com/let-query",
-	"funding": "https://github.com/tom-sapletta-com/let-query?sponsor=1",
+	"repository": "tom-sapletta-com/create-file",
+	"funding": "https://github.com/tom-sapletta-com/create-file?sponsor=1",
 	"author": {
 		"name": "Tom Sapletta",
 		"email": "info@softreck.dev",
@@ -15,7 +15,7 @@
 	},
 	"scripts": {
 		"test": "node test.js",
-		"security": "tidelift init --catalog default let-query"
+		"security": "tidelift init --catalog default create-file"
 	},
 	"files": [
 		"index.js",
@@ -24,8 +24,9 @@
 	"keywords": [
 		"http",
 		"file",
-		"let",
-		"query"
+		"filesystem",
+		"create-file",
+		"create file"
 	],
 	"devDependencies": {
 		"noop-stream": "^0.1.0"
