@@ -1,6 +1,6 @@
 {
-  "name": "create-file/nodejs",
-  "version": "3.1.7",
+  "name": "nodejsfunc/create-file",
+  "version": "1.0.1",
   "description": "create-file() function & create-file class are downloading data or files by http request",
   "type": "library",
   "authors": [

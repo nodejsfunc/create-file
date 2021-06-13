@@ -25,6 +25,7 @@ fixes to examples and README can be made directly to master but they could also 
 
 Non tech contribution are also welcome, if you find a bug in documentation on the website you can file an issue to
 
++ [please follow these steps as Contrubutor](.github/pull_request.md)
 + [nodejsfunc/create-file](https://github.com/nodejsfunc/create-file).
 + [contributors list with avatars](.github/contributor_list.md)
 + [Building the project](.github/test.md)
